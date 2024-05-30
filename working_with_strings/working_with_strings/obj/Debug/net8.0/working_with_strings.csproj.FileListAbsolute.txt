@@ -1,0 +1,14 @@
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\bin\Debug\net8.0\working_with_strings.exe
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\bin\Debug\net8.0\working_with_strings.deps.json
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\bin\Debug\net8.0\working_with_strings.runtimeconfig.json
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\bin\Debug\net8.0\working_with_strings.dll
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\bin\Debug\net8.0\working_with_strings.pdb
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.AssemblyInfoInputs.cache
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.AssemblyInfo.cs
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.dll
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\refint\working_with_strings.dll
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.pdb
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\working_with_strings.genruntimeconfig.cache
+C:\Users\Laptop\source\repos\working_with_strings\working_with_strings\obj\Debug\net8.0\ref\working_with_strings.dll
